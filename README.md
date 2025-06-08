@@ -35,7 +35,6 @@ reto-blockchain/
 │ ├── usuarios.json
 │ ├── utxos.json
 │ └── blockchain.json
-├── main.py # Script principal de pruebas
 ├── prueba.py # Scripts alternativos de testeo
 └── README.md
 ```
