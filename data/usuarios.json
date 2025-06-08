@@ -1,0 +1,12 @@
+{
+    "David": {
+        "private_key": "1bceb69941d47c1fa4ec08b38e772693f20d2e9e8346d2577ffc9f228e94f3ca",
+        "public_key": "523aa81066d40148fdfd597d2a6d7c67bbec0884be1765a3cd93e83397fd3d17e828af63ef5e03833f857484655282e9b4f89048d1de215563984c45d150d499",
+        "address": "99aa2da6eaa9667b3f659ef3848fee3248e93c53ade92b0c853cca42bcc0b6eb"
+    },
+    "Paulina": {
+        "private_key": "a16865f36a5f1a6f1e02f0ca910420d0c27bba1fb827cff6658c28759fcad710",
+        "public_key": "f13aeae6cfde746fc55bc9e951423221912acd9fdd6bc5a50bb2a5ec75c790258c609e88450f03a255a8c9d9c4eb7bec20aff81ea7827f59721a797697a1aa6a",
+        "address": "77dcbc4321ae317b18326f8aff55b5a465be4adfe2110176d6e3c59953c1a113"
+    }
+}

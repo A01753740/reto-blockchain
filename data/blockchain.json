@@ -1,0 +1,86 @@
+[
+    {
+        "index": 0,
+        "timestamp": "2025-06-07 22:58:11",
+        "transactions": [
+            {
+                "tipo": "coinbase",
+                "direccion": "GENESIS",
+                "cantidad": 1000
+            }
+        ],
+        "prev_hash": "0",
+        "nonce": 3396,
+        "hash": "00070b20cd8d69dd7a25e274904710b04de466baaf04b8c116fa882c71065a7d"
+    },
+    {
+        "index": 1,
+        "timestamp": "2025-06-07 22:58:52",
+        "transactions": [
+            {
+                "direccion": "MINERO",
+                "cantidad": 4.0,
+                "tipo": "recompensa"
+            },
+            {
+                "inputs": [
+                    {
+                        "txid": "fund_David",
+                        "index": 0,
+                        "signature": "7c48e5613ed0e5687dc3ad6cb6643b9ac8b82c2760c31021ccebe69f869bdc58c8ffec2396c278117661239bcc2e588bb33cfdc7edd8b1c8e54bd5ed0e46b3ce"
+                    }
+                ],
+                "outputs": [
+                    {
+                        "direccion": "77dcbc4321ae317b18326f8aff55b5a465be4adfe2110176d6e3c59953c1a113",
+                        "cantidad": 1.5
+                    },
+                    {
+                        "direccion": "99aa2da6eaa9667b3f659ef3848fee3248e93c53ade92b0c853cca42bcc0b6eb",
+                        "cantidad": 0.5
+                    }
+                ],
+                "fee": 1.0,
+                "txid": "e398171bc2932a48447b04b656332df1d826f46b04035249998aadedd62ef84c"
+            }
+        ],
+        "prev_hash": "00070b20cd8d69dd7a25e274904710b04de466baaf04b8c116fa882c71065a7d",
+        "nonce": 7983,
+        "hash": "00006b940c137228cf5ecd50f9017bd16cadfa5dfb9026698e5555ab5d6e4bff"
+    },
+    {
+        "index": 2,
+        "timestamp": "2025-06-07 23:00:48",
+        "transactions": [
+            {
+                "direccion": "MINERO",
+                "cantidad": 4.0,
+                "tipo": "recompensa"
+            },
+            {
+                "inputs": [
+                    {
+                        "txid": "e398171bc2932a48447b04b656332df1d826f46b04035249998aadedd62ef84c",
+                        "index": 0,
+                        "signature": "9e1fca7fd851965883b8650a8bd8b426b3e4658c1b6883ad402c750da56e85a4a18e5a3a3f1e5b8e687938132e269fa57f22bd8f53b4887e7938ea34c27b2e07"
+                    }
+                ],
+                "outputs": [
+                    {
+                        "direccion": "99aa2da6eaa9667b3f659ef3848fee3248e93c53ade92b0c853cca42bcc0b6eb",
+                        "cantidad": 0.2
+                    },
+                    {
+                        "direccion": "77dcbc4321ae317b18326f8aff55b5a465be4adfe2110176d6e3c59953c1a113",
+                        "cantidad": 0.30000000000000004
+                    }
+                ],
+                "fee": 1.0,
+                "txid": "52d16c673ca5c1436d1264c3a8ef02c4164e22165b2e6d69ddc59d28782c9ee1"
+            }
+        ],
+        "prev_hash": "00006b940c137228cf5ecd50f9017bd16cadfa5dfb9026698e5555ab5d6e4bff",
+        "nonce": 332,
+        "hash": "000fbac666b1dd04a3766b906eb0aca3ba8727a231b58f88d33b5586b17d61cf"
+    }
+]

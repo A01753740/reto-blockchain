@@ -1,0 +1,14 @@
+{
+    "e398171bc2932a48447b04b656332df1d826f46b04035249998aadedd62ef84c:1": {
+        "direccion": "99aa2da6eaa9667b3f659ef3848fee3248e93c53ade92b0c853cca42bcc0b6eb",
+        "cantidad": 0.5
+    },
+    "52d16c673ca5c1436d1264c3a8ef02c4164e22165b2e6d69ddc59d28782c9ee1:0": {
+        "direccion": "99aa2da6eaa9667b3f659ef3848fee3248e93c53ade92b0c853cca42bcc0b6eb",
+        "cantidad": 0.2
+    },
+    "52d16c673ca5c1436d1264c3a8ef02c4164e22165b2e6d69ddc59d28782c9ee1:1": {
+        "direccion": "77dcbc4321ae317b18326f8aff55b5a465be4adfe2110176d6e3c59953c1a113",
+        "cantidad": 0.30000000000000004
+    }
+}
