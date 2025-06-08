@@ -24,11 +24,10 @@ class Transaction:
         message = self._message_to_sign(index)
         signature = sk.sign(message.encode()).hex()
         self.inputs[index]["signature"] = signature
-        self.txid = self._calculate_txid()  # actualizar txid después de firmar
+        self.txid = self._calculate_txid() 
 
     def _message_to_sign(self, index):
         """Mensaje único a firmar por input[index] (sin la firma incluida)"""
-        # Copia el input y elimina el campo "signature" si existe
         input_copy = self.inputs[index].copy()
         input_copy.pop("signature", None)
 
