@@ -8,5 +8,15 @@
         "private_key": "a16865f36a5f1a6f1e02f0ca910420d0c27bba1fb827cff6658c28759fcad710",
         "public_key": "f13aeae6cfde746fc55bc9e951423221912acd9fdd6bc5a50bb2a5ec75c790258c609e88450f03a255a8c9d9c4eb7bec20aff81ea7827f59721a797697a1aa6a",
         "address": "77dcbc4321ae317b18326f8aff55b5a465be4adfe2110176d6e3c59953c1a113"
+    },
+    "Alejandro": {
+        "private_key": "21473ae03beee04f40ab74dd00329aa1f9469f861954a5f3c22268565e2a6578",
+        "public_key": "00418c86e09d8a33fe0ce2d297a844d19256e6a96ee7c06ad4cff76cd4916d76c0817bface2a17ac8d1d9b9e3f61eae9407a6ed63301560cd46b40de76b6523c",
+        "address": "e087d2a7b35040fb37c9ba29c5eed1a9ad74685a5a599fd719a1199137d0e7ce"
+    },
+    "Samuel": {
+        "private_key": "b2d3b4bb7981de43837d009d8fb53d28f44dea1d749192dede72ffaa7d33c136",
+        "public_key": "b290d137d469e1a95ab3c6ecfd18c63321d5b82c42415ef4c290c8f8b3258bfdfe29cc5c071b42e3feb3445444bd158b29ce0dd2047382258c7f7bb88a316d28",
+        "address": "fc784f733ffbd811f6c81de5af4227ef63c6cf3ae5654811fe07c4fead0456fe"
     }
 }

@@ -82,5 +82,40 @@
         "prev_hash": "00006b940c137228cf5ecd50f9017bd16cadfa5dfb9026698e5555ab5d6e4bff",
         "nonce": 332,
         "hash": "000fbac666b1dd04a3766b906eb0aca3ba8727a231b58f88d33b5586b17d61cf"
+    },
+    {
+        "index": 3,
+        "timestamp": "2025-06-09 14:33:25",
+        "transactions": [
+            {
+                "direccion": "MINERO",
+                "cantidad": 4.0,
+                "tipo": "recompensa"
+            },
+            {
+                "inputs": [
+                    {
+                        "txid": "fund_Samuel",
+                        "index": 0,
+                        "signature": "110a8acc03ae33a3c3b4bd1fb3f523a887c850828c54fac543b86c88a610dff6bc0f964fce86c66060e802347287d62f0bf31e833b4adbd9aab18d1dd38a994b"
+                    }
+                ],
+                "outputs": [
+                    {
+                        "direccion": "e087d2a7b35040fb37c9ba29c5eed1a9ad74685a5a599fd719a1199137d0e7ce",
+                        "cantidad": 1.25
+                    },
+                    {
+                        "direccion": "fc784f733ffbd811f6c81de5af4227ef63c6cf3ae5654811fe07c4fead0456fe",
+                        "cantidad": 2.75
+                    }
+                ],
+                "fee": 1.0,
+                "txid": "39ae4a6db355207dba8edd1584230e62947cd21bcf31512e36a9b84e4d6931ce"
+            }
+        ],
+        "prev_hash": "000fbac666b1dd04a3766b906eb0aca3ba8727a231b58f88d33b5586b17d61cf",
+        "nonce": 12829,
+        "hash": "0003a92750283583333c1da25e5768b87aa6bdf39bfb820ec1e2ba31335fc72e"
     }
 ]

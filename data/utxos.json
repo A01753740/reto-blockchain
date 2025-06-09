@@ -10,5 +10,17 @@
     "52d16c673ca5c1436d1264c3a8ef02c4164e22165b2e6d69ddc59d28782c9ee1:1": {
         "direccion": "77dcbc4321ae317b18326f8aff55b5a465be4adfe2110176d6e3c59953c1a113",
         "cantidad": 0.30000000000000004
+    },
+    "fund_Alejandro:0": {
+        "direccion": "e087d2a7b35040fb37c9ba29c5eed1a9ad74685a5a599fd719a1199137d0e7ce",
+        "cantidad": 2
+    },
+    "39ae4a6db355207dba8edd1584230e62947cd21bcf31512e36a9b84e4d6931ce:0": {
+        "direccion": "e087d2a7b35040fb37c9ba29c5eed1a9ad74685a5a599fd719a1199137d0e7ce",
+        "cantidad": 1.25
+    },
+    "39ae4a6db355207dba8edd1584230e62947cd21bcf31512e36a9b84e4d6931ce:1": {
+        "direccion": "fc784f733ffbd811f6c81de5af4227ef63c6cf3ae5654811fe07c4fead0456fe",
+        "cantidad": 2.75
     }
 }
