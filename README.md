@@ -21,22 +21,55 @@ Este es un proyecto integrador que simula una blockchain, incluyendo creación d
 
 ```
 reto-blockchain/
-├── blockchain/ # Módulos principales (lógica de negocio)
-│ ├── wallet.py # Generación de claves/direcciones
-│ ├── transaction.py # Transacciones y UTXO
-│ ├── block.py # Estructura de bloque
-│ ├── blockchain.py # Manejador de cadena
-│ ├── system.py # Clase controladora (usuarios, UTXO, bloques)
-├── interface/ # Interfaz con Streamlit
-│ └── app.py
-├── utils/ # Utilidades (logger, limpieza de caché, etc.)
-│ └── logger.py
-├── data/ # Datos persistentes
-│ ├── usuarios.json
-│ ├── utxos.json
-│ └── blockchain.json
-├── prueba.py # Scripts alternativos de testeo
-└── README.md
+│   .DS_Store
+│   .gitignore
+│   debug.log
+│   prueba.py
+│   README.md
+│   requirements.txt
+│   
+├───blockchain
+│   │   block.py
+│   │   blockchain.py
+│   │   system.py
+│   │   transaction.py
+│   │   wallet.py
+│   │   __init__.py
+│
+├───data
+│       blockchain.json
+│       usuarios.json
+│       utxos.json
+│       
+├───docs
+│   │   make.bat
+│   │   Makefile
+│   │   Presentación proyecto integrador.pdf
+│   │   
+│   ├───build
+│   │   │   
+│   │   ├───html
+│   │   └───latex
+│   │
+│   └───source
+│       │   blockchain.rst
+│       │   conf.py
+│       │   index.rst
+│       │
+│       ├───_static
+│       └───_templates
+├───interface
+│       app.py
+│       __init__.py
+│
+├───logs
+│       ejecucion.log
+│
+└───utils
+    │   delete_cache.py
+    │   install_requirements.py
+    │   logger.py
+    │   __init__.py
 ```
 
 ---
